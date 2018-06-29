@@ -18,10 +18,11 @@ font-size:500%;
 background-color: grey;
 height: 1000px;
 width:1051px;
+padding-left: 100px;
+padding-top: 50px;
 }
 #p{
 text-align: justify;
-
 }
 
 #second{
@@ -33,6 +34,7 @@ text-align: justify;
 background-color: green;
 height: 1000px;
 width:300px;
+padding-top: 50px;
 
 }
 #text-form{
@@ -69,3 +71,11 @@ color:blue;
   color:white;
 }
 /* words under lets playin the second paragraph */
+#lets{
+  font-size: 30px;
+  color:black;
+}
+#rules{
+font-size: 20px;
+color:black;
+}
