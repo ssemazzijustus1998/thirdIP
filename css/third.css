@@ -43,3 +43,29 @@ width:200px;
 
 }
 /* editing the words between the second container */
+#ping{
+font-size: 30px;
+}
+#created{
+  font-size: 20px;
+  color:#FFE4C4;
+}
+#kit{
+  font-size: 15px;
+  color: white;
+}
+#git{
+  font-size: 25px;
+  color:#FFE4C4;
+}
+#saber{
+color:blue;
+}
+#level{
+  font-size: 20px;
+  color:#FFE4C4;
+}
+#java{
+  color:white;
+}
+/* words under lets playin the second paragraph */
