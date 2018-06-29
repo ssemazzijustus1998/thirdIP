@@ -9,6 +9,20 @@ padding-top: 150px;
 font-size:500%;
 
 }
+#form{
+
+
+
+}
+#grey{
+background-color: grey;
+height: 1000px;
+width:1051px;
+}
+#p{
+text-align: justify;
+
+}
 
 #second{
 
@@ -16,9 +30,16 @@ font-size:500%;
 }
 #green{
 
+background-color: green;
+height: 1000px;
+width:300px;
+
+}
+#text-form{
+width:200px;
 
 }
 #rest{
 
-
 }
+/* editing the words between the second container */
