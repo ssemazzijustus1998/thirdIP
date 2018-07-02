@@ -3,9 +3,9 @@ background-image: url("/home/justus/Documents/thirdIP/ball-game-macro-569986.jpg
 background-repeat: no-repeat;
 bakground position:center;
 background-size: cover;
-
+font-family: 'Abril Fatface', cursive;
 text-align: center;
-height:600px;
+height:500px;
 padding-top: 150px;
 
 }
@@ -19,14 +19,15 @@ font-size:500%;
 
 }
 #grey{
-
+font-family: 'Rajdhani', sans-serif;
 height: 1000px;
 width:1051px;
-padding-left: 100px;
-padding-top: 50px;
+padding-left: 300px;
+padding-top: 200px;
+font-size:30px;
 }
 #p{
-text-align: justify;
+text-align: center;
 }
 
 #second{
@@ -35,7 +36,7 @@ text-align: justify;
 }
 #green{
 
-
+font-family: 'Gloria Hallelujah', cursive;
 height: 1000px;
 width:300px;
 padding-top: 50px;
