@@ -7,10 +7,10 @@ font-family: 'Abril Fatface', cursive;
 text-align: center;
 height:500px;
 padding-top: 150px;
+font-size:700%;
 
 }
 #word{
-font-size:500%;
 
 }
 #form{
@@ -39,7 +39,8 @@ text-align: center;
 font-family: 'Gloria Hallelujah', cursive;
 height: 1000px;
 width:300px;
-padding-top: 50px;
+padding-top: 100px;
+}
 
 }
 #text-form{
@@ -55,25 +56,25 @@ font-size: 30px;
 }
 #created{
   font-size: 20px;
-  color:#FFE4C4;
+  color:black;
 }
 #kit{
   font-size: 15px;
-  color: white;
+  color: black;
 }
 #git{
   font-size: 25px;
-  color:#FFE4C4;
+  color:black;
 }
 #saber{
-color:blue;
+color:black;
 }
 #level{
   font-size: 20px;
-  color:#FFE4C4;
+  color:black;
 }
 #java{
-  color:white;
+  color:black;
 }
 /* words under lets playin the second paragraph */
 #lets{
