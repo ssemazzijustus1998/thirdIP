@@ -1,5 +1,5 @@
 #first{
-background-color: 	#FFE4C4;
+
 text-align: center;
 height:400px;
 padding-top: 150px;
@@ -15,7 +15,7 @@ font-size:500%;
 
 }
 #grey{
-background-color: grey;
+
 height: 1000px;
 width:1051px;
 padding-left: 100px;
@@ -31,7 +31,7 @@ text-align: justify;
 }
 #green{
 
-background-color: green;
+
 height: 1000px;
 width:300px;
 padding-top: 50px;
@@ -78,4 +78,7 @@ color:blue;
 #rules{
 font-size: 20px;
 color:black;
+}
+body{
+  background-image: url("blur-close-up-dew-1046159.jpg");
 }
