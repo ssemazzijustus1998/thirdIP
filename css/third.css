@@ -7,11 +7,12 @@ font-family: 'Abril Fatface', cursive;
 text-align: center;
 height:500px;
 padding-top: 150px;
-font-size:700%;
+
 
 }
 #word{
-
+font-size:700%;
+color:red;
 }
 #form{
 
@@ -25,6 +26,11 @@ width:1051px;
 padding-left: 300px;
 padding-top: 200px;
 font-size:30px;
+background-image: url("/home/justus/Documents/thirdIP/blue-close-up-electronics-462678.jpg");
+background-repeat: no-repeat;
+background-position:center;
+background-size: cover;
+color:#FF0000;
 }
 #p{
 text-align: center;
@@ -40,6 +46,10 @@ font-family: 'Gloria Hallelujah', cursive;
 height: 1000px;
 width:300px;
 padding-top: 100px;
+background-image: url("/home/justus/Documents/thirdIP/architecture-arm-blur-380287.jpg");
+background-repeat: no-repeat;
+bakground position:center;
+background-size: cover;
 }
 
 }
@@ -56,25 +66,25 @@ font-size: 30px;
 }
 #created{
   font-size: 20px;
-  color:black;
+  color:#FF0000;
 }
 #kit{
   font-size: 15px;
-  color: black;
+  color: #FF0000;
 }
 #git{
   font-size: 25px;
-  color:black;
+  color:#FF0000;
 }
 #saber{
-color:black;
+color:#FF0000;
 }
 #level{
   font-size: 20px;
-  color:black;
+  color:#FF0000;
 }
 #java{
-  color:black;
+  color:#FF0000;
 }
 /* words under lets playin the second paragraph */
 #lets{
